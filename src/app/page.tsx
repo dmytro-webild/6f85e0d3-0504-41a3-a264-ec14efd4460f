@@ -69,7 +69,7 @@ export default function LandingPage() {
           handle: "@sarahj",
           testimonial: "The best burger I've had in Windhoek! Perfectly grilled.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-beef-burger-with-cheese-tomato-generative-ai_188544-33302.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-beef-burger-with-cheese-tomato-generative-ai_188544-33302.jpg?_wi=1",
           imageAlt: "juicy flame grilled burger extreme close up",
         },
         {
@@ -77,7 +77,7 @@ export default function LandingPage() {
           handle: "@markd",
           testimonial: "Incredible ribs and fast service. Will be back!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/low-angle-wicker-lamps-ceiling-inside-building_181624-47099.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/low-angle-wicker-lamps-ceiling-inside-building_181624-47099.jpg?_wi=1",
           imageAlt: "juicy flame grilled burger extreme close up",
         },
         {
@@ -85,7 +85,7 @@ export default function LandingPage() {
           handle: "@klausm",
           testimonial: "The quality is unmatched in Windhoek. A true gem.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/delivery-icon-left-side_187299-45734.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delivery-icon-left-side_187299-45734.jpg?_wi=1",
           imageAlt: "juicy flame grilled burger extreme close up",
         },
         {
@@ -93,7 +93,7 @@ export default function LandingPage() {
           handle: "@lindap",
           testimonial: "Great environment and the food is phenomenal.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/illsutrated-organic-food-background_53876-17860.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/illsutrated-organic-food-background_53876-17860.jpg?_wi=1",
           imageAlt: "juicy flame grilled burger extreme close up",
         },
         {
@@ -101,7 +101,7 @@ export default function LandingPage() {
           handle: "@jamesb",
           testimonial: "If you love a good smokey flavor, this is your place.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=3qsgsb",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=3qsgsb&_wi=1",
           imageAlt: "juicy flame grilled burger extreme close up",
         },
       ]}
@@ -111,7 +111,7 @@ export default function LandingPage() {
           href: "#menu",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/grilled-beef-burger-with-cheese-tomato-generative-ai_188544-33302.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/grilled-beef-burger-with-cheese-tomato-generative-ai_188544-33302.jpg?_wi=2"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -165,7 +165,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       title="About Grill Addicts"
       description="Born from a passion for fire and flavor, we bring the best of street-style grilled food to B1 City. We pride ourselves on locally sourced meats and a vibrant, urban atmosphere that makes everyone feel at home."
-      imageSrc="http://img.b2bpic.net/free-photo/low-angle-wicker-lamps-ceiling-inside-building_181624-47099.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/low-angle-wicker-lamps-ceiling-inside-building_181624-47099.jpg?_wi=2"
     />
   </div>
 
@@ -182,7 +182,7 @@ export default function LandingPage() {
             "Speed",
             "Convenience",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/delivery-icon-left-side_187299-45734.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delivery-icon-left-side_187299-45734.jpg?_wi=2",
         },
         {
           id: "2",
@@ -191,7 +191,7 @@ export default function LandingPage() {
             "Quality",
             "Fresh",
           ],
-          imageSrc: "http://img.b2bpic.net/free-vector/illsutrated-organic-food-background_53876-17860.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/illsutrated-organic-food-background_53876-17860.jpg?_wi=2",
         },
         {
           id: "3",
@@ -200,7 +200,7 @@ export default function LandingPage() {
             "Authentic",
             "Smoky",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=3qsgsb",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=3qsgsb&_wi=2",
         },
       ]}
       title="Why Choose Us"
@@ -276,7 +276,7 @@ export default function LandingPage() {
           quote: "The quality is unmatched in Windhoek. A true gem.",
           tag: "Top Review",
           avatarSrc: "http://img.b2bpic.net/free-photo/woman-with-curly-hair-dressed-fashionable-clothes-round-spectacles-looks-away-considers-something_273609-55152.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-beef-burger-with-cheese-tomato-generative-ai_188544-33302.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-beef-burger-with-cheese-tomato-generative-ai_188544-33302.jpg?_wi=3",
           imageAlt: "young professional portrait urban",
         },
         {
@@ -287,7 +287,7 @@ export default function LandingPage() {
           quote: "Great environment for the kids and the food is phenomenal.",
           tag: "Best Service",
           avatarSrc: "http://img.b2bpic.net/free-photo/excited-lucky-charming-friendly-blond-girlfriend-having-fun-celebrating-perfect-news-best-score-receive-scholarship-smiling-amused-carefree-close-eyes-show-peace-victory-signs-orange-background_1258-307693.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/low-angle-wicker-lamps-ceiling-inside-building_181624-47099.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/low-angle-wicker-lamps-ceiling-inside-building_181624-47099.jpg?_wi=3",
           imageAlt: "young professional portrait urban",
         },
         {
@@ -298,7 +298,7 @@ export default function LandingPage() {
           quote: "If you love a good smokey flavor, this is your place.",
           tag: "Must Try",
           avatarSrc: "http://img.b2bpic.net/free-photo/hipster-with-stylish-haircut-beard-sits-table-roadside-cafe-drinks-soda-hot-day_613910-19633.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/delivery-icon-left-side_187299-45734.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delivery-icon-left-side_187299-45734.jpg?_wi=3",
           imageAlt: "young professional portrait urban",
         },
         {
@@ -309,7 +309,7 @@ export default function LandingPage() {
           quote: "I'm officially addicted to their loaded fries!",
           tag: "Favorite",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-teenage-girl-posing_23-2148672410.jpg",
-          imageSrc: "http://img.b2bpic.net/free-vector/illsutrated-organic-food-background_53876-17860.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/illsutrated-organic-food-background_53876-17860.jpg?_wi=3",
           imageAlt: "young professional portrait urban",
         },
         {
@@ -320,7 +320,7 @@ export default function LandingPage() {
           quote: "A world-class experience right here in B1 City.",
           tag: "Excellent",
           avatarSrc: "http://img.b2bpic.net/free-photo/pretty-student-girl-holding-books-looking-happy-smiling-camera-outdoor-stylish-girl-way-university_574295-4508.jpg",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=3qsgsb",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=3qsgsb&_wi=3",
           imageAlt: "young professional portrait urban",
         },
       ]}
